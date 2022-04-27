@@ -1,5 +1,7 @@
 <h1 align="center">Путешествие по России</h1>
 
+<a target="_blank">https://pasha-livinskiy.github.io/russian-travel/</a>
+
 <img src="images/Readme-image.jpg">
 
 <h2 align="center">Описание</h2>
