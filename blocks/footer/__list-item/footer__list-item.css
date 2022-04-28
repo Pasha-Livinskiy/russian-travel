@@ -1,27 +1,27 @@
-.footer__list-Item {
+.footer__list-item {
   display: inline-block;
   margin: 0 18px 0 0;
 }
 
-.footer__list-Item:last-child {
+.footer__list-item:last-child {
   margin: 0;
 }
 
 @media screen and (max-width: 760px) {
-  .footer__list-Item {
+  .footer__list-item {
     display: list-item;
     margin-bottom:32px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .footer__list-Item {
+  .footer__list-item {
     display: list-item;
     margin-left:16px;
     margin-bottom: 32px;
   }
 
-  .footer__list-Item:last-child {
+  .footer__list-item:last-child {
     margin: 0 0 0 16px;
   }
 }
