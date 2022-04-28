@@ -13,5 +13,3 @@
 <img src="images/Read2.jpg">
 <h3>Также сайт адаптирован под разные устройства "но это не точно".
 <img src="images/Read3.jpg">
-
-<h3 align="center"><a href="http://127.0.0.1:5500" target="\_blank">Демонстрация сайта</a></h3>
